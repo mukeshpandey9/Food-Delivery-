@@ -108,5 +108,9 @@
     .navbar-menu{
         display: none;
     }
+    .navbar .logo{
+        width: 50px;
+        border-radius: 30px;
+    }
    
 }
